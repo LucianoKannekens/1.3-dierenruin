@@ -1,0 +1,103 @@
+#everything{
+    display: flex;
+
+}
+body{
+    background-color: rgb(3, 160, 3);
+}
+
+h2{
+    color: white;
+}
+h4{
+    color: white;
+}
+
+#lijstDiv{
+    background-color: rgb(232, 255, 198);
+    margin-top: 20%;
+    margin-right: 82%;
+}
+#homeDiv{
+    background-color: rgb(232, 255, 198);
+    margin-top: 0px;
+}
+
+#btnlogin {
+    width: 500px;
+    margin-left: 30%;
+    transform: translate(-50%,-0%);
+    
+}
+#password {
+    position: relative;
+    left: 0%;
+    transform: translate(-0%,-0%);
+}
+#username {
+    position: relative;
+    left: 0%;
+    transform: translate(-0%,-0%);
+}
+#toevoegen {
+    background-color: rgba(232, 255, 198, 0.8);
+    margin-top: 10%;
+    margin-left:30%;
+    margin-right:30%;
+    border-radius: 10px;
+}
+#overzicht{
+    margin-left: 20%;
+    margin-top: 0%;
+    background-color: rgba(232, 255, 198, 0.8);
+    margin-right: 10%;
+    border-radius: 10px;
+}
+td{
+    text-align: center;
+}
+#tabel{
+    margin-top: 5%;
+    margin-left: 30%;
+    border-radius: 10px;
+    background-color: rgba(232, 255, 198, 0.8);
+    width: 500px;
+    position: relative;
+}
+
+
+#verblijf{
+    background-color: rgba(232, 255, 198, 0.8);
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+}
+#verblijfOverzicht{
+    background-color: rgba(232, 255, 198, 0.8);
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+}
+
+#Koppelen{
+    float: center;
+    background-color: rgba(232, 255, 198, 0.8);
+    margin-top: 1%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+}
+#wijzig{
+    margin-top: 1%;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 500px;
+    background-color: rgba(232, 255, 198, 0.8);
+}
+.homebtn{
+    width:200px; 
+    background-color: rgb(232, 255, 198); 
+    border-color:green;
+}
